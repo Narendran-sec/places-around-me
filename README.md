@@ -12,6 +12,7 @@ Now make your own place and the direct it to the another html by when we touch t
 ### Step 3:
 Add pictures in another html where we want to see the place.
 ## Code:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,7 +31,7 @@ Add pictures in another html where we want to see the place.
 
 </body>
 </html>
-
+```
 ## Output:
 ![output2](https://github.com/Narendran-sec/places-around-me/assets/147473131/ae0c0c3f-d094-4f6c-80fa-eb238bec5a45)
 ![output3](https://github.com/Narendran-sec/places-around-me/assets/147473131/2a0b24d2-c1b1-4052-9c40-3ce0e1d5c590)
