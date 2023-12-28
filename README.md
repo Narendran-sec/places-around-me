@@ -33,6 +33,7 @@ Add pictures in another html where we want to see the place.
 </html>
 ```
 ## Output:
+![output 1](https://github.com/Narendran-sec/places-around-me/assets/147473131/ac59d77d-e68e-4d10-8761-2a51acc6edda)
 ![output2](https://github.com/Narendran-sec/places-around-me/assets/147473131/ae0c0c3f-d094-4f6c-80fa-eb238bec5a45)
 ![output3](https://github.com/Narendran-sec/places-around-me/assets/147473131/2a0b24d2-c1b1-4052-9c40-3ce0e1d5c590)
 ![output4](https://github.com/Narendran-sec/places-around-me/assets/147473131/248a103b-4199-48b6-90e3-6cfc834bd017)
